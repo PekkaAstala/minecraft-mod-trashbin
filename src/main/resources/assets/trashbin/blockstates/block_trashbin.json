@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": [
+      { "model": "trashbin:block/block_trashbin" }
+    ]
+  }
+}
